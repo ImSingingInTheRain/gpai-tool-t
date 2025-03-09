@@ -3,7 +3,7 @@ import pandas as pd
 import io
  
 # ===============================
-#   Refined GPAI Assessment Tool
+#   RRefined GPAI Assessment Tool
 #   Implementing EU AI Act Criteria
 # ===============================
 
